@@ -1,2 +1,2 @@
-Hi, this is test file for git
+Hello, this is test file for git
 Adding a change
